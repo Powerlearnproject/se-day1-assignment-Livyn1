@@ -9,7 +9,7 @@ Software Engineering is a discipline within the field of computer science that i
 Key Aspects of Software Engineering:
 Requirements Analysis: Understanding and documenting what the software is supposed to do.
 Design: Planning the architecture and components of the software.
-Implementation (Coding): Writing the actual code that makes the software function.
+Implementation (Coding): Writing the actual code that makes the software function
 Testing: Ensuring the software works as intended and is free of defects.
 Maintenance: Updating and improving the software after deployment.
 Importance in the Technology Industry:
